@@ -48,7 +48,7 @@
 ## 🔔 Tests
 <p align="center">
   <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/>
-  <img src="	https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
+  <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
 
 
 ## 👯‍♀️ Soft Skills
