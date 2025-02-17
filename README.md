@@ -15,7 +15,7 @@
 
   He finalizado con exito la aceleración <strong>BackEnd NodeJs</strong> en Alkemy.
 
-  Actualmente me encuentro realizando el curso de programación Web con la tecnología <strong>Python</strong> en Codo a Codo 4.0. A su vez, el Ciclo Básico Común(CBC) en la Universidad de Buenos Aires en la carrera de <strong>Licenciatura en Sistemas de la Información de las Organizaciones</strong>
+  Actualmente me encuentro en el primer año de <strong>Licenciatura en Sistemas de la Información de las Organizaciones</strong> en la Universidad de Buenos Aires
 </p>
 
 ## 🛠️ Skills
